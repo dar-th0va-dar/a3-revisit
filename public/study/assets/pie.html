@@ -38,7 +38,7 @@ Revisit.onDataReceive((data) => {
     const arcs = pie(data);
 
     const pie_chart = svg.append("g")
-        .attr("transform", "translate(500, 500)");
+        .attr("transform", "translate(250, 250)");
 
     indices = [indices[1], indices[2]];
     //console.log(indices);
@@ -78,8 +78,8 @@ Revisit.onDataReceive((data) => {
 
     const svg = d3.select("#container")
     .append("svg")
-    .attr("width", 1000)
-    .attr("height", 1000);
+    .attr("width", 600)
+    .attr("height", 400);
 
     // Generate some random data for a pie chart
     const seed = data['seed'];
