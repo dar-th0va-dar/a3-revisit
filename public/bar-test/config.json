@@ -1,0 +1,76 @@
+{
+    "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.0.2/src/parser/StudyConfigSchema.json",
+  "studyMetadata": {
+    "title": "Bar Test",
+    "version": "pilot",
+    "authors": [
+      "The reVISit Team"
+    ],
+    "date": "2023-04-14",
+    "description": "testing",
+    "organizations": [
+      "University of Utah",
+      "WPI",
+      "University of Toronto"
+    ]
+  },
+  "uiConfig": {
+    "contactEmail": "contact@revisit.dev",
+    "helpTextPath": "demo-html/assets/help.md",
+    "logoPath": "revisitAssets/revisitLogoSquare.svg",
+    "withProgressBar": true,
+    "autoDownloadStudy": false,
+    "sidebar": true,
+    "windowEventDebounceTime": 200
+  },
+  "baseComponents": {
+    "bar-chart": {
+        "type": "website",
+        "response": [
+            {
+                "id": "q-numerical",
+                "prompt": "Your response:",
+                "required": true,
+                "location": "belowStimulus",
+                "type": "numerical",
+                "min": 0,
+                "max": 100,
+                "placeholder": "Enter a number"
+            }
+        ],
+        "path": "bar-test/assets/bar.html",
+        "instructionLocation": "belowStimulus"
+    }
+  },
+  "components": {
+    "introduction": {
+      "type": "markdown",
+      "path": "demo-html/assets/introduction.md",
+      "response": []
+    },
+    "bar-chart-1":{
+      "baseComponent": "bar-chart",
+      "description": "A trial for the user to click the largest bar",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [2]
+      }
+    },
+    "bar-chart-2":{
+      "baseComponent": "bar-chart",
+      "description": "A trial for the user to click the smallest bar",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [5]
+      }
+    }
+  },
+  "sequence": {
+    "order": "fixed",
+    "components": [
+      "introduction",
+      "bar-chart-1",
+      "bar-chart-2"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<div id="container"></div>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="../../revisitUtilities/revisit-communicate.js"></script>
+<script type="module">
+
+Revisit.onDataReceive((data) => {
+    // Function for generating random data
+    function random_data(seed, indices) {
+        //generate random data from 1 - 100 with seed representing the percentage of the larger point the smaller one is between the two marked points at indices
+        const data = Array.from({ length: indices[0] }, () => (Math.random() * 96 + 5));
+        let point = Math.random() * 36 + 65;
+        let newPoint = point * (seed * 5) / 100;
+        //console.log("seed", seed);
+        //console.log("point", point);
+        //console.log("newPoint", newPoint);
+        data[indices[1]] = point;
+        data[indices[2]] = newPoint;
+        return data;
+    }
+
+    // Function for generating the 2 marked points
+    function getIndices() {
+        let size = Math.floor(Math.random() * 3) + 5;
+        let first = d3.randomInt(0, size)();
+        let second;
+        do {
+            second = d3.randomInt(0, size)();
+        } while (second == first);
+        return [size, first, second];
+    }
+
+    let bar1;
+    let bar2;
+
+    // Function for creating a bar chart
+    function bar_chart(svg, data, indices) {
+        const bar_width = 50;
+
+        //const indices = getIndices(data.length);
+        indices = [indicies[1], indicies[2]];
+        //console.log(indices);
+
+        const bar_chart = svg.append("g")
+            .attr("transform", "translate(250, 250)");
+
+        bar_chart.selectAll("rect")
+            .data(data)
+            .join("rect")
+            .attr("x", (d, i) => i * bar_width)
+            .attr("y", d => 100 - (2 * d))
+            .attr("width", bar_width)
+            .attr("height", d => (2 * d))
+            .attr("fill", "white")
+            .attr("stroke", "black")
+            .attr("stroke-width", 1)
+            .each(function(d, i) {
+                if (i == indices[0] || i == indices[1]) {
+                    bar_chart.append("circle")
+                        .attr("cx", i * bar_width + bar_width / 2)
+                        .attr("cy", 90)
+                        .attr("r", 5)
+                        .attr("fill", "black");
+                    if(i == indices[0]) {
+                        bar1 = d;
+                    } else {
+                        bar2 = d;
+                    }
+                }
+            });
+        //add vertical axis
+        bar_chart.append("line")
+            .attr("x1", -20)
+            .attr("y1", 100)
+            .attr("x2", -20)
+            .attr("y2", -100)
+            .attr("stroke", "black")
+            .attr("stroke-width", 1);
+        bar_chart.append("text")
+            .attr("x", -55)
+            .attr("y", -90)
+            .text("100")
+            .attr("font-size", "20px");
+        //add horizontal axis
+        bar_chart.append("line")
+            .attr("x1", -20)
+            .attr("y1", 100)
+            .attr("x2", 200)
+            .attr("y2", 100)
+            .attr("stroke", "black")
+            .attr("stroke-width", 1);
+    }
+
+    const svg = d3.select("#container")
+    .append("svg")
+    .attr("width", 1000)
+    .attr("height", 1000);
+
+    // Generate some random data for a bar chart
+    const seed = data['seed'];
+    const indicies = getIndices();
+    var data = random_data(seed, indicies);
+    //var data = [1, 1, 1, 2]
+    //console.log(data);
+
+    // Create a bar chart
+    bar_chart(svg, data, indicies);
+    //console.log("bars", bar1, bar2);
+});
+
+</script>
