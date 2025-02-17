@@ -82,52 +82,484 @@
       "path": "demo-html/assets/introduction.md",
       "response": []
     },
-    "pie-chart-1":{
+    "pie-chart-10":{
         "baseComponent": "pie-chart",
-        "description": "A trial for the user to click the largest bar",
+        "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
         "parameters": {
             "seed": [2]
         }
     },
-    "pie-chart-2":{
+    "pie-chart-15":{
         "baseComponent": "pie-chart",
-        "description": "A trial for the user to click the smallest bar",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [3]
+        }
+    },
+    "pie-chart-20":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [4]
+        }
+    },
+    "pie-chart-25":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
         "parameters": {
             "seed": [5]
         }
     },
-    "bubble-chart-1":{
+    "pie-chart-30":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [6]
+        }
+    },
+    "pie-chart-35":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [7]
+        }
+    },
+    "pie-chart-40":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [8]
+        }
+    },
+    "pie-chart-45":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [9]
+        }
+    },
+    "pie-chart-50":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [10]
+        }
+    },
+    "pie-chart-55":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [11]
+        }
+    },
+    "pie-chart-60":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [12]
+        }
+    },
+    "pie-chart-65":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [13]
+        }
+    },
+    "pie-chart-70":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [14]
+        }
+    },
+    "pie-chart-75":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [15]
+        }
+    },
+    "pie-chart-80":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [16]
+        }
+    },
+    "pie-chart-85":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [17]
+        }
+    },
+    "pie-chart-90":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [18]
+        }
+    },
+    "pie-chart-25-2":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [5]
+        }
+    },
+    "pie-chart-35-2":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [7]
+        }
+    },
+    "pie-chart-65-2":{
+        "baseComponent": "pie-chart",
+        "description": "A trial to determine the relative size of two pie chart slices",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [13]
+        }
+    },
+    "bubble-chart-10":{
         "baseComponent": "bubble-chart",
-        "description": "A trial for the user to click the largest bar",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
         "parameters": {
             "seed": [2]
         }
     },
-    "bubble-chart-2":{
+    "bubble-chart-15":{
         "baseComponent": "bubble-chart",
-        "description": "A trial for the user to click the smallest bar",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [3]
+        }
+    },
+    "bubble-chart-20":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [4]
+        }
+    },
+    "bubble-chart-25":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
         "parameters": {
             "seed": [5]
         }
     },
-    "bar-chart-1":{
+    "bubble-chart-30":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [6]
+        }
+    },
+    "bubble-chart-35":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [7]
+        }
+    },
+    "bubble-chart-40":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [8]
+        }
+    },
+    "bubble-chart-45":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [9]
+        }
+    },
+    "bubble-chart-50":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [10]
+        }
+    },
+    "bubble-chart-55":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [11]
+        }
+    },
+    "bubble-chart-60":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [12]
+        }
+    },
+    "bubble-chart-65":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [13]
+        }
+    },
+    "bubble-chart-70":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [14]
+        }
+    },
+    "bubble-chart-75":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [15]
+        }
+    },
+    "bubble-chart-80":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [16]
+        }
+    },
+    "bubble-chart-85":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [17]
+        }
+    },
+    "bubble-chart-90":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [18]
+        }
+    },
+    "bubble-chart-50-2":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [10]
+        }
+    },
+    "bubble-chart-15-2":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [3]
+        }
+    },
+    "bubble-chart-30-2":{
+        "baseComponent": "bubble-chart",
+        "description": "A trial to determine the relative size of two bubble chart bubbles",
+        "instruction": "What percentage of the larger is the smaller?",
+        "parameters": {
+            "seed": [6]
+        }
+    },
+    "bar-chart-10":{
       "baseComponent": "bar-chart",
-      "description": "A trial for the user to click the largest bar",
+      "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
       "parameters": {
           "seed": [2]
       }
     },
-    "bar-chart-2":{
+    "bar-chart-15":{
       "baseComponent": "bar-chart",
-      "description": "A trial for the user to click the smallest bar",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [3]
+      }
+    },
+    "bar-chart-20":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [4]
+      }
+    },
+    "bar-chart-25":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
       "parameters": {
           "seed": [5]
+      }
+    },
+    "bar-chart-30":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [6]
+      }
+    },
+    "bar-chart-35":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [7]
+      }
+    },
+    "bar-chart-40":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [8]
+      }
+    },
+    "bar-chart-45":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [9]
+      }
+    },
+    "bar-chart-50":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [10]
+      }
+    },
+    "bar-chart-55":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [11]
+      }
+    },
+    "bar-chart-60":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [12]
+      }
+    },
+    "bar-chart-65":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [13]
+      }
+    },
+    "bar-chart-70":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [14]
+      }
+    },
+    "bar-chart-75":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [15]
+      }
+    },
+    "bar-chart-80":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [16]
+      }
+    },
+    "bar-chart-85":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [17]
+      }
+    },
+    "bar-chart-90":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [18]
+      }
+    },
+    "bar-chart-80-2":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [16]
+      }
+    },
+    "bar-chart-55-2":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [11]
+      }
+    },
+    "bar-chart-40-2":{
+      "baseComponent": "bar-chart",
+      "description": "A trial to determine the relative size of two bar chart bars",
+      "instruction": "What percentage of the larger is the smaller?",
+      "parameters": {
+          "seed": [8]
       }
     }
   },
@@ -135,12 +567,66 @@
     "order": "fixed",
     "components": [
         "introduction",
-        "pie-chart-1",
-        "pie-chart-2",
-        "bubble-chart-1",
-        "bubble-chart-2",
-        "bar-chart-1",
-        "bar-chart-2"
+        "bubble-chart-85",
+        "bar-chart-10",
+        "bar-chart-50",
+        "bubble-chart-60",
+        "pie-chart-10",
+        "bubble-chart-90",
+        "pie-chart-15",
+        "bubble-chart-10",
+        "bar-chart-70",
+        "pie-chart-45",
+        "bar-chart-40",
+        "pie-chart-65",
+        "bubble-chart-40",
+        "bubble-chart-30",
+        "bar-chart-80",
+        "bar-chart-80-2",
+        "pie-chart-80",
+        "bubble-chart-45",
+        "pie-chart-30",
+        "bar-chart-25",
+        "pie-chart-35",
+        "pie-chart-70",
+        "bar-chart-90",
+        "bubble-chart-25",
+        "pie-chart-25",
+        "bubble-chart-65",
+        "bar-chart-35",
+        "bubble-chart-50",
+        "bar-chart-60",
+        "bar-chart-15",
+        "bubble-chart-55",
+        "pie-chart-35-2",
+        "bubble-chart-30-2",
+        "pie-chart-75",
+        "bar-chart-55",
+        "bubble-chart-20",
+        "pie-chart-25-2",
+        "bar-chart-40-2",
+        "pie-chart-50",
+        "pie-chart-55",
+        "pie-chart-40",
+        "pie-chart-65-2",
+        "bubble-chart-70",
+        "pie-chart-60",
+        "bar-chart-85",
+        "bubble-chart-15-2",
+        "bubble-chart-80",
+        "bubble-chart-35",
+        "bubble-chart-50-2",
+        "pie-chart-85",
+        "pie-chart-20",
+        "bar-chart-65",
+        "bar-chart-20",
+        "pie-chart-90",
+        "bar-chart-30",
+        "bubble-chart-15",
+        "bar-chart-45",
+        "bar-chart-55-2",
+        "bar-chart-75",
+        "bubble-chart-75"
     ]
   }
 }
