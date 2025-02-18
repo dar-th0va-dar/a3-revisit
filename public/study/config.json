@@ -82,7 +82,7 @@
       "path": "demo-html/assets/introduction.md",
       "response": []
     },
-    "pie-chart-10":{
+    "Trial 5":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -90,7 +90,7 @@
             "seed": [2]
         }
     },
-    "pie-chart-15":{
+    "Trial 7":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -98,7 +98,7 @@
             "seed": [3]
         }
     },
-    "pie-chart-20":{
+    "Trial 51":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -106,7 +106,7 @@
             "seed": [4]
         }
     },
-    "pie-chart-25":{
+    "Trial 25":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -114,7 +114,7 @@
             "seed": [5]
         }
     },
-    "pie-chart-30":{
+    "Trial 19":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -122,7 +122,7 @@
             "seed": [6]
         }
     },
-    "pie-chart-35":{
+    "Trial 21":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -130,7 +130,7 @@
             "seed": [7]
         }
     },
-    "pie-chart-40":{
+    "Trial 41":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -138,7 +138,7 @@
             "seed": [8]
         }
     },
-    "pie-chart-45":{
+    "Trial 10":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -146,7 +146,7 @@
             "seed": [9]
         }
     },
-    "pie-chart-50":{
+    "Trial 39":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -154,7 +154,7 @@
             "seed": [10]
         }
     },
-    "pie-chart-55":{
+    "Trial 40":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -162,7 +162,7 @@
             "seed": [11]
         }
     },
-    "pie-chart-60":{
+    "Trial 44":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -170,7 +170,7 @@
             "seed": [12]
         }
     },
-    "pie-chart-65":{
+    "Trial 12":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -178,7 +178,7 @@
             "seed": [13]
         }
     },
-    "pie-chart-70":{
+    "Trial 22":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -186,7 +186,7 @@
             "seed": [14]
         }
     },
-    "pie-chart-75":{
+    "Trial 34":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -194,7 +194,7 @@
             "seed": [15]
         }
     },
-    "pie-chart-80":{
+    "Trial 17":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -202,7 +202,7 @@
             "seed": [16]
         }
     },
-    "pie-chart-85":{
+    "Trial 50":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -210,7 +210,7 @@
             "seed": [17]
         }
     },
-    "pie-chart-90":{
+    "Trial 54":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -218,7 +218,7 @@
             "seed": [18]
         }
     },
-    "pie-chart-25-2":{
+    "Trial 37":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -226,7 +226,7 @@
             "seed": [5]
         }
     },
-    "pie-chart-35-2":{
+    "Trial 32":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -234,7 +234,7 @@
             "seed": [7]
         }
     },
-    "pie-chart-65-2":{
+    "Trial 42":{
         "baseComponent": "pie-chart",
         "description": "A trial to determine the relative size of two pie chart slices",
         "instruction": "What percentage of the larger is the smaller?",
@@ -242,7 +242,7 @@
             "seed": [13]
         }
     },
-    "bubble-chart-10":{
+    "Trial 8":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -250,7 +250,7 @@
             "seed": [2]
         }
     },
-    "bubble-chart-15":{
+    "Trial 46":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -258,7 +258,7 @@
             "seed": [3]
         }
     },
-    "bubble-chart-20":{
+    "Trial 36":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -266,7 +266,7 @@
             "seed": [4]
         }
     },
-    "bubble-chart-25":{
+    "Trial 24":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -274,7 +274,7 @@
             "seed": [5]
         }
     },
-    "bubble-chart-30":{
+    "Trial 14":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -282,7 +282,7 @@
             "seed": [6]
         }
     },
-    "bubble-chart-35":{
+    "Trial 48":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -290,7 +290,7 @@
             "seed": [7]
         }
     },
-    "bubble-chart-40":{
+    "Trial 13":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -298,7 +298,7 @@
             "seed": [8]
         }
     },
-    "bubble-chart-45":{
+    "Trial 18":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -306,7 +306,7 @@
             "seed": [9]
         }
     },
-    "bubble-chart-50":{
+    "Trial 28":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -314,7 +314,7 @@
             "seed": [10]
         }
     },
-    "bubble-chart-55":{
+    "Trial 31":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -322,7 +322,7 @@
             "seed": [11]
         }
     },
-    "bubble-chart-60":{
+    "Trial 4":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -330,7 +330,7 @@
             "seed": [12]
         }
     },
-    "bubble-chart-65":{
+    "Trial 26":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -338,7 +338,7 @@
             "seed": [13]
         }
     },
-    "bubble-chart-70":{
+    "Trial 43":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -346,7 +346,7 @@
             "seed": [14]
         }
     },
-    "bubble-chart-75":{
+    "Trial 60":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -354,7 +354,7 @@
             "seed": [15]
         }
     },
-    "bubble-chart-80":{
+    "Trial 47":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -362,7 +362,7 @@
             "seed": [16]
         }
     },
-    "bubble-chart-85":{
+    "Trial 1":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -370,7 +370,7 @@
             "seed": [17]
         }
     },
-    "bubble-chart-90":{
+    "Trial 6":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -378,7 +378,7 @@
             "seed": [18]
         }
     },
-    "bubble-chart-50-2":{
+    "Trial 49":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -386,7 +386,7 @@
             "seed": [10]
         }
     },
-    "bubble-chart-15-2":{
+    "Trial 56":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -394,7 +394,7 @@
             "seed": [3]
         }
     },
-    "bubble-chart-30-2":{
+    "Trial 33":{
         "baseComponent": "bubble-chart",
         "description": "A trial to determine the relative size of two bubble chart bubbles",
         "instruction": "What percentage of the larger is the smaller?",
@@ -402,7 +402,7 @@
             "seed": [6]
         }
     },
-    "bar-chart-10":{
+    "Trial 2":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -410,7 +410,7 @@
           "seed": [2]
       }
     },
-    "bar-chart-15":{
+    "Trial 30":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -418,7 +418,7 @@
           "seed": [3]
       }
     },
-    "bar-chart-20":{
+    "Trial 53":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -426,7 +426,7 @@
           "seed": [4]
       }
     },
-    "bar-chart-25":{
+    "Trial 20":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -434,7 +434,7 @@
           "seed": [5]
       }
     },
-    "bar-chart-30":{
+    "Trial 55":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -442,7 +442,7 @@
           "seed": [6]
       }
     },
-    "bar-chart-35":{
+    "Trial 27":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -450,7 +450,7 @@
           "seed": [7]
       }
     },
-    "bar-chart-40":{
+    "Trial 11":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -458,7 +458,7 @@
           "seed": [8]
       }
     },
-    "bar-chart-45":{
+    "Trial 57":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -466,7 +466,7 @@
           "seed": [9]
       }
     },
-    "bar-chart-50":{
+    "Trial 3":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -474,7 +474,7 @@
           "seed": [10]
       }
     },
-    "bar-chart-55":{
+    "Trial 35":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -482,7 +482,7 @@
           "seed": [11]
       }
     },
-    "bar-chart-60":{
+    "Trial 29":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -490,7 +490,7 @@
           "seed": [12]
       }
     },
-    "bar-chart-65":{
+    "Trial 52":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -498,7 +498,7 @@
           "seed": [13]
       }
     },
-    "bar-chart-70":{
+    "Trial 9":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -506,7 +506,7 @@
           "seed": [14]
       }
     },
-    "bar-chart-75":{
+    "Trial 59":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -514,7 +514,7 @@
           "seed": [15]
       }
     },
-    "bar-chart-80":{
+    "Trial 15":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -522,7 +522,7 @@
           "seed": [16]
       }
     },
-    "bar-chart-85":{
+    "Trial 45":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -530,7 +530,7 @@
           "seed": [17]
       }
     },
-    "bar-chart-90":{
+    "Trial 23":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -538,7 +538,7 @@
           "seed": [18]
       }
     },
-    "bar-chart-80-2":{
+    "Trial 16":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -546,7 +546,7 @@
           "seed": [16]
       }
     },
-    "bar-chart-55-2":{
+    "Trial 58":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -554,7 +554,7 @@
           "seed": [11]
       }
     },
-    "bar-chart-40-2":{
+    "Trial 38":{
       "baseComponent": "bar-chart",
       "description": "A trial to determine the relative size of two bar chart bars",
       "instruction": "What percentage of the larger is the smaller?",
@@ -567,66 +567,66 @@
     "order": "fixed",
     "components": [
         "introduction",
-        "bubble-chart-85",
-        "bar-chart-10",
-        "bar-chart-50",
-        "bubble-chart-60",
-        "pie-chart-10",
-        "bubble-chart-90",
-        "pie-chart-15",
-        "bubble-chart-10",
-        "bar-chart-70",
-        "pie-chart-45",
-        "bar-chart-40",
-        "pie-chart-65",
-        "bubble-chart-40",
-        "bubble-chart-30",
-        "bar-chart-80",
-        "bar-chart-80-2",
-        "pie-chart-80",
-        "bubble-chart-45",
-        "pie-chart-30",
-        "bar-chart-25",
-        "pie-chart-35",
-        "pie-chart-70",
-        "bar-chart-90",
-        "bubble-chart-25",
-        "pie-chart-25",
-        "bubble-chart-65",
-        "bar-chart-35",
-        "bubble-chart-50",
-        "bar-chart-60",
-        "bar-chart-15",
-        "bubble-chart-55",
-        "pie-chart-35-2",
-        "bubble-chart-30-2",
-        "pie-chart-75",
-        "bar-chart-55",
-        "bubble-chart-20",
-        "pie-chart-25-2",
-        "bar-chart-40-2",
-        "pie-chart-50",
-        "pie-chart-55",
-        "pie-chart-40",
-        "pie-chart-65-2",
-        "bubble-chart-70",
-        "pie-chart-60",
-        "bar-chart-85",
-        "bubble-chart-15-2",
-        "bubble-chart-80",
-        "bubble-chart-35",
-        "bubble-chart-50-2",
-        "pie-chart-85",
-        "pie-chart-20",
-        "bar-chart-65",
-        "bar-chart-20",
-        "pie-chart-90",
-        "bar-chart-30",
-        "bubble-chart-15",
-        "bar-chart-45",
-        "bar-chart-55-2",
-        "bar-chart-75",
-        "bubble-chart-75"
+        "Trial 1",
+        "Trial 2",
+        "Trial 3",
+        "Trial 4",
+        "Trial 5",
+        "Trial 6",
+        "Trial 7",
+        "Trial 8",
+        "Trial 9",
+        "Trial 10",
+        "Trial 11",
+        "Trial 12",
+        "Trial 13",
+        "Trial 14",
+        "Trial 15",
+        "Trial 16",
+        "Trial 17",
+        "Trial 18",
+        "Trial 19",
+        "Trial 20",
+        "Trial 21",
+        "Trial 22",
+        "Trial 23",
+        "Trial 24",
+        "Trial 25",
+        "Trial 26",
+        "Trial 27",
+        "Trial 28",
+        "Trial 29",
+        "Trial 30",
+        "Trial 31",
+        "Trial 32",
+        "Trial 33",
+        "Trial 34",
+        "Trial 35",
+        "Trial 36",
+        "Trial 37",
+        "Trial 38",
+        "Trial 39",
+        "Trial 40",
+        "Trial 41",
+        "Trial 42",
+        "Trial 43",
+        "Trial 44",
+        "Trial 45",
+        "Trial 46",
+        "Trial 47",
+        "Trial 48",
+        "Trial 49",
+        "Trial 50",
+        "Trial 51",
+        "Trial 52",
+        "Trial 53",
+        "Trial 54",
+        "Trial 55",
+        "Trial 56",
+        "Trial 57",
+        "Trial 58",
+        "Trial 59",
+        "Trial 60"
     ]
   }
 }
