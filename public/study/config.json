@@ -16,7 +16,7 @@
   },
   "uiConfig": {
     "contactEmail": "contact@revisit.dev",
-    "helpTextPath": "demo-html/assets/help.md",
+    "helpTextPath": "study/assets/help.md",
     "logoPath": "revisitAssets/revisitLogoSquare.svg",
     "withProgressBar": true,
     "autoDownloadStudy": false,
@@ -79,7 +79,7 @@
   "components": {
     "introduction": {
       "type": "markdown",
-      "path": "demo-html/assets/introduction.md",
+      "path": "study/assets/introduction.md",
       "response": []
     },
     "Trial 5":{
